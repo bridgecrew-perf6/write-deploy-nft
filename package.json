@@ -10,6 +10,12 @@
   "author": "Ben Rogers",
   "license": "MIT",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "ethers": "^5.5.4",
     "hardhat": "^2.8.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "dotenv": "^16.0.0"
   }
 }
