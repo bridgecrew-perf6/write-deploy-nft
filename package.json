@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Ben Rogers",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.8.3"
+  }
 }
