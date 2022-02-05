@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Hazel"
+    }
+  ],
+  "description": "The world's most adorable and sensitive pup.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZEkr8ufBacrGdzoKtsiY9CjVBBAEcAKi1uQA5hKY2bUB",
+  "name": "Ben.jpg"
+}
